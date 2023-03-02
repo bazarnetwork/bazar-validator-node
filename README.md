@@ -19,7 +19,7 @@ You must have an account on the network to be registered in Bazar Testnet and id
 
 Prerequisites: You must have installed Git and NodeJS 16.x and npm 8.1.0 or above.
 
-1. Go to [validator Node branch](https://github.com/bazarnetwork/bazar-core/tree/validatorNode).
+1. Go to [validator Node Repository](https://github.com/bazarnetwork/bazar-validator-node).
 2. Clone the repository or download the zip file. You must see the *bazar-core folder* in your directory.
 3. Did you clone the repository?, then open a terminal and type the next command on the root of the project:
 ```
